@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: e9e89d27eae79974ab6e1333738c59f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 110859472930428417
+    second: ~tileset grama 512_0
+  - first:
+      213: 8183660815036944706
+    second: ~tileset grama 512_1
+  - first:
+      213: 8165465166592507762
+    second: ~tileset grama 512_2
+  - first:
+      213: 1212385029903033618
+    second: ~tileset grama 512_3
+  - first:
+      213: 6081810505445593893
+    second: ~tileset grama 512_4
+  - first:
+      213: -302378175788018055
+    second: ~tileset grama 512_5
+  - first:
+      213: -2245291735381887228
+    second: ~tileset grama 512_6
+  - first:
+      213: 7923574400504296401
+    second: ~tileset grama 512_7
+  - first:
+      213: -6575587779055966644
+    second: ~tileset grama 512_8
+  - first:
+      213: -3583902469915641800
+    second: ~tileset grama 512_9
+  - first:
+      213: 3854672980640098700
+    second: ~tileset grama 512_10
+  - first:
+      213: -2926235545435068733
+    second: ~tileset grama 512_11
+  - first:
+      213: 5942164134170069649
+    second: ~tileset grama 512_12
+  - first:
+      213: 279344253942010630
+    second: ~tileset grama 512_13
+  - first:
+      213: -8172620435592812124
+    second: ~tileset grama 512_14
+  - first:
+      213: -5932084782277667044
+    second: ~tileset grama 512_15
+  - first:
+      213: 8784978423883949609
+    second: ~tileset grama 512_16
+  - first:
+      213: -1120772589436112687
+    second: ~tileset grama 512_17
+  - first:
+      213: 9008818927207097783
+    second: ~tileset grama 512_18
+  - first:
+      213: 8708900020538592391
+    second: ~tileset grama 512_19
+  - first:
+      213: -4050847311110917892
+    second: ~tileset grama 512_20
+  - first:
+      213: -8485797268620562458
+    second: ~tileset grama 512_21
+  - first:
+      213: 6846884508571028373
+    second: ~tileset grama 512_22
+  - first:
+      213: 7772478530130287673
+    second: ~tileset grama 512_23
+  - first:
+      213: 2876657169595855912
+    second: ~tileset grama 512_24
+  - first:
+      213: -8983206496075160098
+    second: ~tileset grama 512_25
+  - first:
+      213: 7443931241474496083
+    second: ~tileset grama 512_26
+  - first:
+      213: 1917319946619840161
+    second: ~tileset grama 512_27
+  - first:
+      213: -8903412523758674499
+    second: ~tileset grama 512_28
+  - first:
+      213: -503507488151058642
+    second: ~tileset grama 512_29
+  - first:
+      213: 3732616831399689666
+    second: ~tileset grama 512_30
+  - first:
+      213: -8030504389404404493
+    second: ~tileset grama 512_31
+  - first:
+      213: -3034514732892790974
+    second: ~tileset grama 512_32
+  - first:
+      213: 2992969687987483465
+    second: ~tileset grama 512_33
+  - first:
+      213: 3815748503887387965
+    second: ~tileset grama 512_34
+  - first:
+      213: 6605662807119417240
+    second: ~tileset grama 512_35
+  - first:
+      213: 270534625774597458
+    second: ~tileset grama 512_36
+  - first:
+      213: 498185223075869608
+    second: ~tileset grama 512_37
+  - first:
+      213: 8537208195132955853
+    second: ~tileset grama 512_38
+  - first:
+      213: 3705188718499050844
+    second: ~tileset grama 512_39
+  - first:
+      213: 5263101057748041729
+    second: ~tileset grama 512_40
+  - first:
+      213: 153658938752437848
+    second: ~tileset grama 512_41
+  - first:
+      213: -4040301936059360270
+    second: ~tileset grama 512_42
+  - first:
+      213: -1548419164655546225
+    second: ~tileset grama 512_43
+  - first:
+      213: -8795109597987969594
+    second: ~tileset grama 512_44
+  - first:
+      213: 662019068192895791
+    second: ~tileset grama 512_45
+  - first:
+      213: 4907462097001045961
+    second: ~tileset grama 512_46
+  - first:
+      213: 9022629875524927237
+    second: ~tileset grama 512_47
+  - first:
+      213: 8284054120589228841
+    second: ~tileset grama 512_48
+  - first:
+      213: -9075314772603807036
+    second: ~tileset grama 512_49
+  - first:
+      213: 7335616579502237885
+    second: ~tileset grama 512_50
+  - first:
+      213: 7835884655574062008
+    second: ~tileset grama 512_51
+  - first:
+      213: -8076884367656077943
+    second: ~tileset grama 512_52
+  - first:
+      213: 4916294452343298534
+    second: ~tileset grama 512_53
+  - first:
+      213: 3338357558689609460
+    second: ~tileset grama 512_54
+  - first:
+      213: 245149659947570445
+    second: ~tileset grama 512_55
+  - first:
+      213: 1502118845868571983
+    second: ~tileset grama 512_56
+  - first:
+      213: -7125693533255219514
+    second: ~tileset grama 512_57
+  - first:
+      213: 7493157842884736508
+    second: ~tileset grama 512_58
+  - first:
+      213: 7279632556375784017
+    second: ~tileset grama 512_59
+  - first:
+      213: 3951696565536520917
+    second: ~tileset grama 512_60
+  - first:
+      213: 7259156154259126135
+    second: ~tileset grama 512_61
+  - first:
+      213: -7469677495741626331
+    second: ~tileset grama 512_62
+  - first:
+      213: 872974558882506740
+    second: ~tileset grama 512_63
+  - first:
+      213: 8126549254784430155
+    second: ~tileset grama 512_64
+  - first:
+      213: -8434620505852181882
+    second: ~tileset grama 512_65
+  - first:
+      213: -7755959393867020778
+    second: ~tileset grama 512_66
+  - first:
+      213: 4995072621626483251
+    second: ~tileset grama 512_67
+  - first:
+      213: 6043250609223680772
+    second: ~tileset grama 512_68
+  - first:
+      213: 2973696959393818057
+    second: ~tileset grama 512_69
+  - first:
+      213: 5660731497032609930
+    second: ~tileset grama 512_70
+  - first:
+      213: -8518662538729309262
+    second: ~tileset grama 512_71
+  - first:
+      213: -8141602905116987197
+    second: ~tileset grama 512_72
+  - first:
+      213: -1264029334066515091
+    second: ~tileset grama 512_73
+  - first:
+      213: 1151102534794385820
+    second: ~tileset grama 512_74
+  - first:
+      213: 5247955615194419608
+    second: ~tileset grama 512_75
+  - first:
+      213: -2526399222030681528
+    second: ~tileset grama 512_76
+  - first:
+      213: 2035484820190877158
+    second: ~tileset grama 512_77
+  - first:
+      213: 3701157711676265224
+    second: ~tileset grama 512_78
+  - first:
+      213: -1220056963094282767
+    second: ~tileset grama 512_79
+  - first:
+      213: -532584442387979882
+    second: ~tileset grama 512_80
+  - first:
+      213: -1735999142647166149
+    second: ~tileset grama 512_81
+  - first:
+      213: -3656667076637457980
+    second: ~tileset grama 512_82
+  - first:
+      213: -5911335227014991250
+    second: ~tileset grama 512_83
+  - first:
+      213: 5064391297143208830
+    second: ~tileset grama 512_84
+  - first:
+      213: -747586978605114340
+    second: ~tileset grama 512_85
+  - first:
+      213: -637762777186217084
+    second: ~tileset grama 512_86
+  - first:
+      213: 2382504584312772657
+    second: ~tileset grama 512_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ~tileset grama 512_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10651007a1ad98100800000000000000
+      internalID: 110859472930428417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ~tileset grama 512_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2419f820724329170800000000000000
+      internalID: 8183660815036944706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ~tileset grama 512_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f72987e4f815170800000000000000
+      internalID: 8165465166592507762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ~tileset grama 512_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2152f5ed2c143d010800000000000000
+      internalID: 1212385029903033618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ~tileset grama 512_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9761354b6acbdcbf0800000000000000
+      internalID: -302378175788018055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ~tileset grama 512_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407317f001f17d0e0800000000000000
+      internalID: -2245291735381887228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ~tileset grama 512_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4628fff0c1deb4a0800000000000000
+      internalID: -6575587779055966644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ~tileset grama 512_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a064e0ccec67250800000000000000
+      internalID: 5942164134170069649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ~tileset grama 512_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60392427e1e60e300800000000000000
+      internalID: 279344253942010630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ~tileset grama 512_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a96464a305059e80800000000000000
+      internalID: -8172620435592812124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ~tileset grama 512_15
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17d6dee1500dada0800000000000000
+      internalID: -5932084782277667044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ~tileset grama 512_17
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d07aac94473270f0800000000000000
+      internalID: -1120772589436112687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
