@@ -1,4 +1,4 @@
-# AstroPigMission
+# AstroPig Mission
 Project made in the second semester at Facens University's Game Development course
 
 Development time: August 14th, 2020 - December 4th, 2020
